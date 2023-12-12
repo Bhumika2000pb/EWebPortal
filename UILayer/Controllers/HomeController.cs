@@ -12,6 +12,10 @@ namespace UILayer.Controllers
         {
             return View();
         }
+        public ActionResult portal()
+        {
+            return View();
+        }
 
         public ActionResult About()
         {
